@@ -1,0 +1,164 @@
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\Dapper.xml

@@ -1,0 +1,45 @@
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.dll
+F:\Ingenieria de Software\R1\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaControlador\obj\Debug\CapaControlador.pdb

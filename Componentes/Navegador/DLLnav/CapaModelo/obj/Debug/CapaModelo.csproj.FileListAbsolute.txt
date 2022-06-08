@@ -1,0 +1,108 @@
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\R1\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\R1\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\R1\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R1\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R1\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\R1\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\R2\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\R2\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\R2\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R2\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R2\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\R2\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\AyudasyReportes\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\AyudasyReportes\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\AyudasyReportes\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\AyudasyReportes\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\AyudasyReportes\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\AyudasyReportes\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\ImplementarAyudas\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\ImplementarAyudas\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\ImplementarAyudas\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\ImplementarAyudas\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\ImplementarAyudas\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\ImplementarAyudas\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\Final\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\Final\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\Final\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\Final\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\Final\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\Final\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb

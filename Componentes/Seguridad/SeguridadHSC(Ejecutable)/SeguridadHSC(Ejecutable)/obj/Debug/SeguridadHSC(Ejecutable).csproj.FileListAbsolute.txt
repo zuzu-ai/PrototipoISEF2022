@@ -1,0 +1,691 @@
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.xml
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.xml
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\achac\OneDrive\Escritorio\RRHH\Cambios 04042022\IS220221\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\stdole.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.AssemblyReference.cache
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.GenerateResource.cache
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).csproj.CopyComplete
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb

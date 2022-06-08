@@ -1,0 +1,1151 @@
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRegistrarUsuario.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Google.Protobuf.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\Primera revision\Git\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Google.Protobuf.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Zstandard.Net.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.xml
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRegistrarUsuario.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRegistrarUsuario.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\ZUZU\Desktop\CapaVista\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Zstandard.Net.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRegistrarUsuario.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Google.Protobuf.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\R1\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Google.Protobuf.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Zstandard.Net.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.xml
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRegistrarUsuario.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\Angel\Desktop\Prueba 2022\Nueva Rama\Mantenimiento 2402\Mantenimiento 2702\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRegistrarUsuario.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\ZUZU\Desktop\Bitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Zstandard.Net.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRegistrarUsuario.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\1\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Google.Protobuf.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRegistrarUsuario.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\R2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\ZUZU\Desktop\RevisionBitacora\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\3\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.xml
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Google.Protobuf.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 2\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Zstandard.Net.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\6\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.xml
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\achac\OneDrive\Escritorio\RRHH\Nueva carpeta\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Zstandard.Net.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\GiancarloS\Desktop\7\IS220221\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\BouncyCastle.Crypto.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Google.Protobuf.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Ubiety.Dns.Core.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Dapper.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Memory.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\System.Buffers.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\stdole.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\Bitacora.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\DLLnav.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControladorNav.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVista.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModeloNav.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaControlador.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaModelo.pdb
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.AssemblyReference.cache
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmConfirmarContraseña.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoUsuario.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmModulo.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.PendienteDeRevision.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicaciones.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmAplicacionesPerfiles.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmBitacora.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmCambioContraseña.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmLoginHSC.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoAplicacion.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoModulo.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMantenimientoPerfil.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmMIDSeguridad.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPerfiles.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmPermisos.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.frmRecuperarContraseña.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.Properties.Resources.resources
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.GenerateResource.cache
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CoreCompileInputs.cache
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.csproj.CopyComplete
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.dll
+F:\Ingenieria de Software\RRHH 10\Componentes\Seguridad\SeguridadHSC\CapaVista\obj\Debug\CapaVistaSeguridadHSC.pdb
