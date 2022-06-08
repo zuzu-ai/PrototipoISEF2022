@@ -97,3 +97,7 @@ C:\Users\ZUZU\Desktop\Final\ExamenFinal(Ejecutable)\ExamenFinal(Ejecutable)\obj\
 C:\Users\ZUZU\Desktop\Final\ExamenFinal(Ejecutable)\ExamenFinal(Ejecutable)\obj\Debug\ExamenFinal(Ejecutable).exe
 C:\Users\ZUZU\Desktop\Final\ExamenFinal(Ejecutable)\ExamenFinal(Ejecutable)\obj\Debug\ExamenFinal(Ejecutable).pdb
 C:\Users\ZUZU\Desktop\Final\ExamenFinal(Ejecutable)\ExamenFinal(Ejecutable)\bin\Debug\DLLnav.pdb
+C:\Users\ZUZU\Desktop\Final\ExamenFinal(Ejecutable)\ExamenFinal(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\ZUZU\Desktop\Final\ExamenFinal(Ejecutable)\ExamenFinal(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\ZUZU\Desktop\Final\ExamenFinal(Ejecutable)\ExamenFinal(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\ZUZU\Desktop\Final\ExamenFinal(Ejecutable)\ExamenFinal(Ejecutable)\bin\Debug\CapaModelo.pdb

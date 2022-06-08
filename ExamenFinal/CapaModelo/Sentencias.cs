@@ -108,5 +108,35 @@ namespace CapaModelo
                 MessageBox.Show("Error al guardar imagen" + ex);
             }
         }
+        public string idProducto(string nombreE)//conexion para obtener el IdConcepto para el Combobox
+        {
+            string id = "";
+            string sql = "select * from producto where nombre =  '" + nombreE + "';";
+            OdbcConnection conect = cn.conexion();
+            OdbcCommand consulta2 = new OdbcCommand(sql, conect);
+            consulta2.ExecuteNonQuery(); OdbcDataReader busqueda2;
+            busqueda2 = consulta2.ExecuteReader();
+            if (busqueda2.Read())
+            {
+                id = busqueda2["pkid"].ToString();
+            }
+            cn.desconexion(conect);
+            return id;
+        }
+        public string stockProducto(string nombreE)//conexion para obtener el IdConcepto para el Combobox
+        {
+            string stock = "";
+            string sql = "select * from producto where pkid =  '" + nombreE + "';";
+            OdbcConnection conect = cn.conexion();
+            OdbcCommand consulta2 = new OdbcCommand(sql, conect);
+            consulta2.ExecuteNonQuery(); OdbcDataReader busqueda2;
+            busqueda2 = consulta2.ExecuteReader();
+            if (busqueda2.Read())
+            {
+                stock = busqueda2["cantidad"].ToString();
+            }
+            cn.desconexion(conect);
+            return stock;
+        }
     }
 }

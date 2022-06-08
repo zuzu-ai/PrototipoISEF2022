@@ -1,6 +1,7 @@
 ﻿using CapaModelo;
 using System;
 using System.Collections.Generic;
+using System.Data.Odbc;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,6 +32,14 @@ namespace CapaControlador
         public void insertaFoto(string id, byte[] foto)
         {
             sn.insertaFoto(id, foto);
+        }
+        public string idProducto(string nombreE)
+        {
+            return sn.idProducto(nombreE);
+        }
+        public string stockProducto(string nombreE)
+        {
+            return sn.stockProducto(nombreE);
         }
     }
 }
