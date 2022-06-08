@@ -98,28 +98,28 @@ namespace CapaVista
 			// ventana1ToolStripMenuItem
 			// 
 			this.ventana1ToolStripMenuItem.Name = "ventana1ToolStripMenuItem";
-			this.ventana1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+			this.ventana1ToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
 			this.ventana1ToolStripMenuItem.Text = "Bodega";
 			this.ventana1ToolStripMenuItem.Click += new System.EventHandler(this.ventana1ToolStripMenuItem_Click);
 			// 
 			// ventanaConFotoToolStripMenuItem
 			// 
 			this.ventanaConFotoToolStripMenuItem.Name = "ventanaConFotoToolStripMenuItem";
-			this.ventanaConFotoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+			this.ventanaConFotoToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
 			this.ventanaConFotoToolStripMenuItem.Text = "Producto";
 			this.ventanaConFotoToolStripMenuItem.Click += new System.EventHandler(this.ventanaConFotoToolStripMenuItem_Click);
 			// 
 			// productoToolStripMenuItem
 			// 
 			this.productoToolStripMenuItem.Name = "productoToolStripMenuItem";
-			this.productoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+			this.productoToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
 			this.productoToolStripMenuItem.Text = "Forma de Pago";
 			this.productoToolStripMenuItem.Click += new System.EventHandler(this.productoToolStripMenuItem_Click);
 			// 
 			// formaDePagoToolStripMenuItem
 			// 
 			this.formaDePagoToolStripMenuItem.Name = "formaDePagoToolStripMenuItem";
-			this.formaDePagoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+			this.formaDePagoToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
 			this.formaDePagoToolStripMenuItem.Text = "Cliente";
 			this.formaDePagoToolStripMenuItem.Click += new System.EventHandler(this.formaDePagoToolStripMenuItem_Click);
 			// 
@@ -134,8 +134,9 @@ namespace CapaVista
 			// facturaciónToolStripMenuItem
 			// 
 			this.facturaciónToolStripMenuItem.Name = "facturaciónToolStripMenuItem";
-			this.facturaciónToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
+			this.facturaciónToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
 			this.facturaciónToolStripMenuItem.Text = "Facturación";
+			this.facturaciónToolStripMenuItem.Click += new System.EventHandler(this.facturaciónToolStripMenuItem_Click);
 			// 
 			// reportesToolStripMenuItem
 			// 
@@ -161,7 +162,6 @@ namespace CapaVista
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.BackgroundImage = global::CapaVista.Properties.Resources.fondo;
 			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
 			this.ClientSize = new System.Drawing.Size(800, 450);
 			this.Controls.Add(this.txtUsuario);

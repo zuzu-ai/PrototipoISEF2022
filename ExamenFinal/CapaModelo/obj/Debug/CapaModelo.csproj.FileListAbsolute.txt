@@ -9,3 +9,4 @@ C:\Users\ZUZU\Desktop\Final\ExamenFinal\CapaModelo\bin\Debug\CapaModelo.pdb
 C:\Users\ZUZU\Desktop\Final\ExamenFinal\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 C:\Users\ZUZU\Desktop\Final\ExamenFinal\CapaModelo\obj\Debug\CapaModelo.dll
 C:\Users\ZUZU\Desktop\Final\ExamenFinal\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\ZUZU\Desktop\Final\ExamenFinal\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache

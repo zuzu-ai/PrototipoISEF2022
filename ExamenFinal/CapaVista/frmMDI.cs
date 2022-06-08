@@ -96,5 +96,17 @@ namespace CapaVista
             }
             catch (Exception ex) { MessageBox.Show("Error: " + ex); }
         }
+
+		private void facturaciónToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+            try
+            {
+                frmFacturacion form3 = new frmFacturacion();
+                form3.MdiParent = this;
+                bitacora.guardarEnBitacora(IdUsuario, "1", "0002", "Entrada a la Vista");
+                form3.Show();
+            }
+            catch (Exception ex) { MessageBox.Show("Error: " + ex); }
+        }
 	}
 }
